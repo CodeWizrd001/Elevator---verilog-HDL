@@ -30,7 +30,7 @@ initial
       #50 req_floor = 1;
       #50 reset = 1'b1;
       #50 reset = 1'b0;
-      #50 weight =900;
+      #50 weight =1024;
       #50 reset = 1'b1;
 
    end

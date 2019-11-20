@@ -74,7 +74,7 @@ always@(req_floor)
 
  always@(weight)
  begin
-    if(weight>899)
+    if(weight>1000)
     temp_over_weight=1;
     else
     temp_over_weight=0;
